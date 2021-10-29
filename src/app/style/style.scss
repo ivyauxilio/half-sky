@@ -1,0 +1,44 @@
+.profile-list{
+    .selected{
+        background-color: #FFF8F0;
+    }
+}
+.nav-text{
+    font-size: 18px;
+}
+.header {
+    background: #1F263E;
+}
+.skills{
+    p{
+        background:rgba(221, 225, 238, 0.5);
+        color:#475071;
+        font-size:13px;
+    }
+}
+.star{
+    background: #FFF0DE;
+    p{
+        font-size:12px;
+        line-height: 1.2rem;
+    }
+}
+
+.favorite,.email,.location,.text-14 {
+    p{
+     font-size: 14px;
+    }
+    .card-num{
+        color:#F7931D;
+        font-size: 32px;
+    }
+}
+.date{
+    color: #1F263E;
+    opacity: .5;
+}
+.view{
+    background: #F7931D;
+    border-radius: 100px;
+    color:#fff;
+}

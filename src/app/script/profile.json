@@ -1,0 +1,106 @@
+[
+    {
+      "name" :"Jackson Briggs",
+      "location" : "Singapore",
+      "star":"4.5",
+      "favorite":"0",
+      "img":"profile1.png",
+      "skills":[
+          "C++",
+          "Wordpress",
+          "Java",
+          "Angular.JS"
+      ]
+    },
+    {
+        "name" :"Maya Smith",
+        "location" : "Singapore",
+        "star":"4.5",
+        "favorite":"0",
+        "img":"profile_2.png",
+        "skills":[
+            "Blockchain",
+            "IT Recruiter",
+            "Healthcare",
+            "All"
+        ]
+      },
+      {
+        "name" :"Michelle White",
+        "location" : "Singapore",
+        "star":"4.5",
+        "favorite":"1",
+        "img":"profile_3.png",
+        "skills":[
+            "C++",
+            "Wordpress",
+            "Java",
+            "Angular.JS"
+        ]
+      },
+      {
+        "name" :"Thomas Edison",
+        "location" : "Singapore",
+        "star":"4.5",
+        "favorite":"0",
+        "img":"profile_4.png",
+        "skills":[
+            "C++",
+            "Wordpress",
+            "Java",
+            "Angular.JS"
+        ]
+      },
+      {
+        "name" :"Angela Thompson",
+        "location" : "Singapore",
+        "star":"4.5",
+        "favorite":"1",
+        "img":"profile_5.png",
+        "skills":[
+            "C++",
+            "Wordpress",
+            "Java",
+            "Angular.JS"
+        ]
+      },
+      {
+        "name" :"Nikolai Smith",
+        "location" : "Singapore",
+        "star":"4.5",
+        "favorite":"1",
+        "img":"profile_6.png",
+        "skills":[
+            "C++",
+            "Wordpress",
+            "Java",
+            "Angular.JS"
+        ]
+      },
+      {
+        "name" :"Thomas Edison",
+        "location" : "Singapore",
+        "star":"4.5",
+        "favorite":"0",
+        "img":"profile_6.png",
+        "skills":[
+            "C++",
+            "Wordpress",
+            "Java",
+            "Angular.JS"
+        ]
+      },
+      {
+        "name" :"Angela Thompson",
+        "location" : "Singapore",
+        "star":"4.5",
+        "favorite":"0",
+        "img":"profile_6.png",
+        "skills":[
+            "C++",
+            "Wordpress",
+            "Java",
+            "Angular.JS"
+        ]
+      }
+  ]
